@@ -1,4 +1,5 @@
 # Project-Cedar
- Keep.It.Simple.Stupid
-- This is for anything that is **IN PROGRESS**
-- Do not push to Master unless it is ready. 
+
+K.I.S.S
+
+@ToScHiEntertainment Only push files into master when you are ready for them to be merged with me.
